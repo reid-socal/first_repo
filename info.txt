@@ -1,1 +1,1 @@
-Hi this is Reid Olson
+Hello, I am Reid Olson, and this is a test commit for this repository.
